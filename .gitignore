@@ -3,3 +3,4 @@
 .bak
 docker-compose/docker-compose.yml
 docker-compose/iCloud/*
+.DS_Store
